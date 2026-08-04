@@ -1,0 +1,44 @@
+# Eclipse
+.project
+.classpath
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Build
+bin/
+target/
+*.class
+*.jar
+
+# Test outputs
+test-output/
+surefire-reports/
+allure-results/
+
+
+# Selenium artifacts
+screenshots/
+videos/
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temp files
+*.tmp
+*.bak
+*~
+
+# Environment / secrets
+.env
+
+# Maven local repo
+.m2/
